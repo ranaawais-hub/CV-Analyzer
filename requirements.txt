@@ -1,0 +1,20 @@
+# One requirement per line. Lines starting with # are ignored.
+
+Minimum 3 or 3+ years of professional WordPress development experience
+
+Skills: 
+- WordPress
+- WooCommerce
+- HTML
+- CSS
+- PHP
+- MySQL (If not in the CV, dont reject)
+
+At least three of above skills matched in any CV then we can accept it.
+
+# Experience with WooCommerce
+# Custom theme development
+# Plugin development or customization
+# Knowledge of PHP, HTML, CSS and JavaScript
+# SEO and website performance optimization experience
+# Good English communication skills

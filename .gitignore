@@ -1,0 +1,19 @@
+# API Keys
+api_key.txt
+.env
+
+# CV Files
+cvs/
+
+# Generated CSV Files
+errors.csv
+gemini_output.csv
+results.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
