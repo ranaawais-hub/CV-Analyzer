@@ -17,3 +17,6 @@ __pycache__/
 # Virtual Environment
 venv/
 .venv/
+
+# Database files
+*.db
