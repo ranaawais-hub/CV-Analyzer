@@ -1,20 +1,17 @@
-# One requirement per line. Lines starting with # are ignored.
+# Shortlisting rules. Format:  NAME = value
+# Lines starting with # are ignored.
 
-Minimum 3 or 3+ years of professional WordPress development experience
+# Minimum years of experience
+MIN_YEARS = 3
 
-Skills: 
-- WordPress
-- WooCommerce
-- HTML
-- CSS
-- PHP
-- MySQL (If not in the CV, dont reject)
+# Which years to check: a skill name (for example WordPress) or TOTAL for total experience
+YEARS_OF = WordPress
 
-At least three of above skills matched in any CV then we can accept it.
+# Skills to look for in each CV
+SKILLS = WordPress, WooCommerce, HTML, CSS, PHP
 
-# Experience with WooCommerce
-# Custom theme development
-# Plugin development or customization
-# Knowledge of PHP, HTML, CSS and JavaScript
-# SEO and website performance optimization experience
-# Good English communication skills
+# How many of the SKILLS above must be found to shortlist
+MIN_SKILLS_MATCHED = 3
+
+# Optional skills: shown in the results but never cause a rejection
+OPTIONAL_SKILLS = MySQL
